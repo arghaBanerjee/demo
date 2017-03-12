@@ -11,7 +11,7 @@ public class RestExample {
 	
 	@RequestMapping(method=RequestMethod.GET)
 	public String testMethod(){
-		return "Hello";
+		return "Hello This is my first cloud app!!!";
 	}
 
 }
